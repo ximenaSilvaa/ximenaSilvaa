@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a creative and passionate **Computer Science and Technology** student at Tecnológico de Monterrey 🇲🇽, with a special love for **game development, storytelling, and ethical data science**.
+I'm a creative and passionate **Computer Science and Technology** student at Tecnológico de Monterrey 🇲🇽.
 
-- 🎮 Building **educational games** in Unity with custom mechanics and feedback
-- 🎨 I’ve been painting for 7 years – art helps me reflect and stay grounded
-- 🧠 Interested in **AI for climate action** and transparency in data ethics
-- 🌈 I value creativity, balance, and mental health in tech spaces
+- Building **educational games** in Unity with custom mechanics and feedback
+- I’ve been painting for 7 years – art helps me reflect and stay grounded
+- Interested in **AI** and transparency in data ethics
+- I value creativity, balance, and mental health in tech spaces
 
 ---
 
@@ -25,15 +25,12 @@ I'm a creative and passionate **Computer Science and Technology** student at Tec
 
 ## 🧩 Fun Facts
 
-- 🐱 I'm working on a **cat café app** 🐾
-- 🏃‍♀️ Training for a half-marathon (21km)
-- 🧠 Currently solving LeetCode problems and posting them to GitHub
-- 🎬 I make short films and love visual storytelling
+-  Training for a half-marathon (21km)
 
 ---
 
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ximenasilvaa)  
-Let’s build something meaningful, creative, and impactful 💫
+
 
